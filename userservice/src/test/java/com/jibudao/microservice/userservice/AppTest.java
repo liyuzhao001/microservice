@@ -1,4 +1,4 @@
-package com.jibudao.microservice;
+package com.jibudao.microservice.userservice;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
